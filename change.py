@@ -15,4 +15,4 @@ def change():
     print("Pesos:")
     print(c1)
     print("Centavos:")
-    
+    print(c3)
